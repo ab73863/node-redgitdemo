@@ -1,1 +1,1 @@
-[]
+[{"id":"6496f54e.02543c","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"cec21c84.1e24f","type":"http in","z":"6496f54e.02543c","name":"","url":"/data","method":"get","upload":false,"swaggerDoc":"","x":130,"y":160,"wires":[["480a5618.88a4d8"]]},{"id":"480a5618.88a4d8","type":"http response","z":"6496f54e.02543c","name":"","statusCode":"200","headers":{},"x":330,"y":140,"wires":[]}]
